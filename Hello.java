@@ -1,9 +1,8 @@
-ass Hello
+class Hello
 {
 public static void main(String args[])
 {
-rnd 
-system.out.println("hello 2nd commit");
+system.out.println("hello 3rd commit");
 }
 }
 
